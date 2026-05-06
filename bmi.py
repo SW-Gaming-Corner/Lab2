@@ -15,17 +15,3 @@ def calculate_bmi():
   return 0
 calculate_bmi()
 
-
-#def display_main_menu():
- #print("Enter some numbers seperated by commas")
-#display_main_menu()
-
-#def user_input():
- #number = input()
- #numbersplit = number.split(",")
- #list = [numbersplit]
- #print (list)
- #return list
-#number_list = user_input()
-
-
